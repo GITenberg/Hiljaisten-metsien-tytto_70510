@@ -1,0 +1,43 @@
+_repo: Hiljaisten-metsien-tytto_70510
+_version: 0.0.1
+alternative_title: The silent places. Finnish
+contributor:
+  translator:
+    agent_name: Auer, Eino
+    alias: Solmu
+    birthdate: 1898
+    deathdate: 1941
+    gutenberg_agent_id: '55780'
+    url: http://www.gutenberg.org/2009/agents/55780
+    wikipedia: https://fi.wikipedia.org/wiki/Eino_Auer
+creator:
+  author:
+    agent_name: White, Stewart Edward
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '247'
+    url: http://www.gutenberg.org/2009/agents/247
+    wikipedia: https://en.wikipedia.org/wiki/Stewart_Edward_White
+description: ''
+gutenberg_issued: '2023-04-09'
+identifiers:
+  gutenberg: '70510'
+language: fi
+pgterms:marc905: 20221230130005white
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bK. J. Gummerus Oy, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Fiction'
+- !lcsh 'Great Lakes Region (North America) -- Fiction'
+- !lcsh 'Outdoorsmen -- Fiction'
+- !lcsh 'Tracking and trailing -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Great Lakes Region (North America) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Hiljaisten metsien tyttö
+url: http://www.gutenberg.org/ebooks/70510
