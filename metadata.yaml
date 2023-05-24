@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '55780'
     url: http://www.gutenberg.org/2009/agents/55780
     wikipedia: https://fi.wikipedia.org/wiki/Eino_Auer
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: White, Stewart Edward
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/247
     wikipedia: https://en.wikipedia.org/wiki/Stewart_Edward_White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70510#Hiljaisten-metsien-tytto
 gutenberg_issued: '2023-04-09'
 identifiers:
   gutenberg: '70510'
